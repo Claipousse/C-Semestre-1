@@ -1,0 +1,19 @@
+# ninja log v6
+2	151	7524951926733624	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+12	154	7524951926825603	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+155	371	7524951928257167	Evaluation.exe	42ed5da046a1125b
+24	145	7524956088340677	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+34	155	7524956088442687	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+155	290	7524956089649901	Evaluation.exe	42ed5da046a1125b
+30	201	7524956874156080	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+20	238	7524956874064412	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+238	396	7524956876239683	Evaluation.exe	42ed5da046a1125b
+21	170	7524959443729615	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+18	117	7524959508446685	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+118	289	7524959509454727	Evaluation.exe	42ed5da046a1125b
+18	148	7524962050788682	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+7	155	7524962050681626	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+155	316	7524962052165150	Evaluation.exe	42ed5da046a1125b
+28	154	7524963651957335	CMakeFiles/Evaluation.dir/operations.c.obj	8cf9b311ab28ff6f
+20	156	7524963651869617	CMakeFiles/Evaluation.dir/main.c.obj	f48fcd16c6103396
+156	320	7524963653231080	Evaluation.exe	42ed5da046a1125b

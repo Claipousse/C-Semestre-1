@@ -1,0 +1,7 @@
+# ninja log v6
+4	180	7514799163760657	CMakeFiles/library.dir/main.c.obj	94a4eb555895dd26
+37	198	7514799164094006	CMakeFiles/library.dir/library.c.obj	ab95872982edcfba
+198	366	7514799165661992	library.exe	1d995053ba214561
+12	142	7521864347229666	CMakeFiles/library.dir/main.c.obj	7dd442d6631ded6b
+21	154	7521864347385922	CMakeFiles/library.dir/library.c.obj	e9d7c16506d605e3
+155	300	7521864348726847	library.exe	1d995053ba214561

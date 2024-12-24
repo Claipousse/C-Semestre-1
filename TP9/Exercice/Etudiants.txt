@@ -1,0 +1,13 @@
+Nombre d'étudiant : 2
+Etudiant 1 :
+Nom : Pop
+Note en Math : 1.00
+Note en Informatique : 2.00
+Note en Physique : 3.00
+
+Etudiant 2 :
+Nom : Zoz
+Note en Math : 4.00
+Note en Informatique : 5.00
+Note en Physique : 6.00
+
