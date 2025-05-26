@@ -1,3 +1,0 @@
-C:/Users/cleme/Desktop/Programmes/TD4/Exercice 3/cmake-build-debug/CMakeFiles/Exercice_3.dir
-C:/Users/cleme/Desktop/Programmes/TD4/Exercice 3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cleme/Desktop/Programmes/TD4/Exercice 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/cleme/Desktop/ECE/Programmes/Cahier d'exercices/ASCII/cmake-build-debug/CMakeFiles/ASCII.dir
-C:/Users/cleme/Desktop/ECE/Programmes/Cahier d'exercices/ASCII/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cleme/Desktop/ECE/Programmes/Cahier d'exercices/ASCII/cmake-build-debug/CMakeFiles/rebuild_cache.dir

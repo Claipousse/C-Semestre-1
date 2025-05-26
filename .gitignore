@@ -1,0 +1,99 @@
+# Fichiers de build CMake
+build/
+Build/
+BUILD/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Fichiers exécutables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# Fichiers de debug
+*.pdb
+*.ilk
+*.map
+*.dSYM/
+
+# Dossiers de build courants
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+x64/
+x86/
+Win32/
+.vs/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Fichiers temporaires et de sauvegarde
+*~
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Fichiers générés par les IDE
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dossiers de sortie courants
+bin/
+obj/
+out/
+dist/
+
+# Fichiers de compilation
+*.d
+*.gch
+*.pch
+
+# Fichiers de test générés
+test_results/
+Testing/
+
+# Fichiers de documentation générés
+doc/html/
+doc/latex/
+docs/_build/
+
+# Fichiers de package
+*.tar.gz
+*.zip
+*.7z
+
+# Fichiers spécifiques aux éditeurs
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# Variables d'environnement
+.env
+.env.local
+
+# Fichiers de log
+*.log

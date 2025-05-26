@@ -1,3 +1,0 @@
-C:/Users/cleme/Desktop/ECE/Programmes/TD4/bibliotheque/cmake-build-debug/CMakeFiles/cours4.dir
-C:/Users/cleme/Desktop/ECE/Programmes/TD4/bibliotheque/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cleme/Desktop/ECE/Programmes/TD4/bibliotheque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
